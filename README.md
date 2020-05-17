@@ -7,7 +7,7 @@ This API created _by_ **Zamion101** for public use because of worst documentatio
 ```python
 import GGAPI
 
-api = GGAPI.GGPAI('username','password','api_key','secret_key')
+api = GGAPI.GGAPI('username','password','api_key','secret_key')
 
 """
 >username: Developer username
